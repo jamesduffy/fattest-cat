@@ -1,22 +1,22 @@
 {
-  "name": "fattest-cat",
+  "name": "fattest-dog",
   "version": "1.0.3",
-  "description": "Find fattest cat currently up for adoption at SF SPCA.",
+  "description": "Find fattest dog currently up for adoption at SF SPCA.",
   "bin": "index.js",
   "main": "index.js",
-  "repository": "lexiross/fattest-cat",
+  "repository": "jamesduffy/fattest-dog",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Lexi Ross",
   "keywords": [
-    "cat",
-    "cats",
+    "dog",
+    "dogs",
     "spca",
     "fat",
     "fatter",
     "fattest",
-    "meow"
+    "bark"
   ],
   "license": "ISC",
   "dependencies": {
